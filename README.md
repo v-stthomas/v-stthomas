@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @v-stthomas
 - 👀 I’m interested in helping people make good use of online resources.
-- 🌱 I’m currently learning how DYnamics 365 Industry Solutions does things.
+- 🌱 I’m currently learning how Dynamics 365 Industry Solutions does things.
 - 💞️ I’m looking to collaborate on projects where my team needs me.
 - 📫 How to reach me ... I'm still working on that.
 
